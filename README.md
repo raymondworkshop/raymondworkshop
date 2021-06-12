@@ -1,9 +1,9 @@
 Hi, I'm Raymond ZHAO Wenlong, a Computer Engineer & Scientist.
 
-I like problem solving, and reading.
+I like problem solving, and reading. I write articles at [blog.reader](https://muyun.github.io/).
 If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. You can also find me on [Twitter](https://twitter.com/_muyun).
 
-I write articles at [blog.reader](https://muyun.github.io/).
+
 
 Outside of Technology & Philosophy world, I also like Nature, self-improvement,product & service, and art NOW. I worked as Technical Officer at HSUHK, RA at CityU and HKBU, Software Engineer at HKCREO (a Fintech startup) and Alcatel-Lucent S.A. (Nokia Corporation now).
 
