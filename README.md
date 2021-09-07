@@ -12,4 +12,4 @@ I have a BS in Electroic and Information Engineering from [Wuhan University](htt
 
 You can support my work by tipping me on [Ko-fi](https://ko-fi.com/raymondzhao), or send me BTC at 19YGkJm3QTARcpatbdUdmYy8ZuDLZ91nr3  .
 
-Opinions here are just mine.
+I am also available for short term consulting, reach out if you'd like to chat.
