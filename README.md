@@ -3,7 +3,7 @@ Hi, I'm Raymond, a Computer Engineer & Scientist.
 I like problem solving, and reading. I write at [blog.reader](https://muyun.github.io/).  
 
 If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. 
-I am also available for short term consulting.  You can also find me on [Twitter](https://twitter.com/_muyun).
+I am also available for project consulting.  You can also find me on [Twitter](https://twitter.com/_muyun).
 
 
 Outside of Technology & Philosophy world, I also like self-improvement, and experiencing something.  
