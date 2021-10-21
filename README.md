@@ -3,7 +3,7 @@ Hi, I'm Raymond, a Computer Engineer & Scientist.
 I like problem solving, and reading. I write at [blog.reader](https://muyun.github.io/).  
 
 If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. 
-I am also available for project consulting.  You can also find me on [Twitter](https://twitter.com/_muyun).
+You can also find me on [Twitter](https://twitter.com/_muyun).
 
 
 Outside of Technology & Philosophy world, I also like self-improvement, and experiencing something.  
@@ -13,4 +13,4 @@ I have a BS in Electroic and Information Engineering from [Wuhan University](htt
 
 You can support my work by tipping me on [Ko-fi](https://ko-fi.com/raymondzhao), or send me BTC at 19YGkJm3QTARcpatbdUdmYy8ZuDLZ91nr3  .
 
-I am also available for short term consulting, reach out if you'd like to chat.
+I am also available for project consulting, reach out if you'd like to chat.
