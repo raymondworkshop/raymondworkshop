@@ -1,8 +1,8 @@
-Hi, I'm Raymond, a Computer Engineer & Scientist, and Product Manager.  I like problem solving, and reading. 
+Hi, I'm Raymond, a Computer Engineer & Scientist, and Product Manager.  
 
-I write at [blog.reader](https://muyun.github.io/).  If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. 
+I like problem solving, and reading.  If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. 
 I am also available for project consulting, reach out if you'd like to chat.
 
-Outside of Technology & Philosophy world, I also like self-development, and experiencing some beauty,love, and local culture.  
+Outside of Technology & Philosophy world, I also like self-development, and experiencing some new.  
 
 You can support my open work by tipping me on [Ko-fi](https://ko-fi.com/muyun), or send me BTC at 19YGkJm3QTARcpatbdUdmYy8ZuDLZ91nr3  .
