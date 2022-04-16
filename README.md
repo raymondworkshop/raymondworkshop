@@ -1,4 +1,4 @@
-Hi, I'm Raymond, Curious Engineer&Scientist, Dormant Entrepreneur. 
+Hi, I'm Raymond, a Curious Engineer&Scientist, Dormant Entrepreneur. 
 
 If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@gmail.com. I’d be happy to hear from you. 
 I am also available for project consulting, reach out if you'd like to chat.
