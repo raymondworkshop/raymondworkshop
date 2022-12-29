@@ -5,4 +5,4 @@ I am also available for project consulting, reach out if you'd like to chat.
 
 I got my M.Sc. in Computer Science at Chinese University of Hong Kong and B.Eng. in Electronic and Information Engineering at WuHan University. I also hold a Diploma in International Business Communication at The University of Hong Kong. Outside of Technology & Philosophy world, I also like self-development, and experiencing some new.  
 
-You can support my open work by tipping me on [Ko-fi](https://ko-fi.com/muyun), or send me BTC at 19YGkJm3QTARcpatbdUdmYy8ZuDLZ91nr3  .
+You can support my open work by tipping me on [Ko-fi](https://ko-fi.com/muyun), or send me ETH at 0xefa10460013349123a01237379163c3C16dFb906  .
