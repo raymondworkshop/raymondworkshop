@@ -1,4 +1,4 @@
-Hi, I'm Raymond, I am a freelance developer with a broad skillset and deep expertise in engineering, product, and technical writing.  
+Hi, I'm Raymond, I am a freelance developer in hong kong.
 
 If you’ve got any questions, suggestions or would like to discuss a project then email me at wenlzhao@icloud.com. I’d be happy to hear from you. 
 
