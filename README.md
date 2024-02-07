@@ -1,6 +1,6 @@
 Hi, I'm Raymond ZHAO Wenlong. I am a project (PRODUCT/TECH/BUSINESS) consultant in Hong Kong now. I enjoys working with startups on engineering, product, culture, and business.
 
-I was a Technical Officer in HSUHK, RA (in Chinese University of Hong Kong, City University of Hong Kong, and Hong Kong Baptist University), and Software Engineer in Alcatel-Lucent (now Nokia Corporation) and HKCREO (a Fintech startup).
+I was a Technical Officer in HSUHK, RA (in Chinese University of Hong Kong, City University of Hong Kong, and Hong Kong Baptist University), and Lead Software Engineer in Alcatel-Lucent (now Nokia Corporation) and HKCREO (a Fintech startup).
 
 I got my M.Sc. in Computer Science at Chinese University of Hong Kong and B.Eng. in Electronic and Information Engineering at WuHan University.
 
