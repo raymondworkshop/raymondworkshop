@@ -1,4 +1,4 @@
-Hi, I'm Raymond ZHAO Wenlong. I am a freelance Technical Product Specialist & NLP Scientist in HK now. 
+Hi, I'm Raymond ZHAO Wenlong. I am a freelance Technical Product Specialist in HK now. 
 Skilled in Python, JS, C, Natural Language Processing (NLP), Machine/Deep Learning, and Web development.
 
 
