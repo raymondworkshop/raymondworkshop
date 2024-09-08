@@ -1,4 +1,4 @@
-Hi, I'm Raymond ZHAO Wenlong. I am a freelance Technical Product Specialist in HK now. 
+Hi, I'm Raymond ZHAO Wenlong. I am a Technical Product Specialist in HK now. 
 I likes working on engineering, product, culture, and the related business.
 
 
