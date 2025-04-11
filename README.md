@@ -1,4 +1,4 @@
-Hi, I'm Raymond ZHAO Wenlong. I am a Technical Product Specialist in HK now.   
+Hi, I'm Raymond ZHAO Wenlong. I am an Engineer and Founder@Bean in Hong Kong.   
 I like building products, teams, and ourselves. 
 
 
