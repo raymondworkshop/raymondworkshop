@@ -5,6 +5,8 @@ I was a Tech Officer at HSUHK, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCRE
 
 Outside of tech and reading, I like Philosophy, Nature, and Art.
 
+If you’ve got any questions, suggestions or would like to discuss a project then email me at bestraymond@icloud.com. I’d be happy to hear from you.
+
 Some of My favorite quotes:
   - "The challenge comes because you are ready for it"
   - "What makes you vulnerable makes you strong and beautiful"
