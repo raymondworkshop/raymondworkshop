@@ -17,3 +17,5 @@ Some of My favorite quotes:
 
 
 I got my MSc in Computer Science at Chinese University of Hong Kong and BEng in Electronic and Information Engineering at WuHan University.
+
+All opinions here are my own.
