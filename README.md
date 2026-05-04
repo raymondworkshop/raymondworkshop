@@ -1,5 +1,5 @@
 
-Raymond ZHAO Wenlong is a product-minded engineer and Founder@Bean based in Hong Kong.
+Raymond ZHAO Wenlong is a product-minded engineer and founder@Bean based in Hong Kong.
 
 If you’ve got any questions, suggestions or would like to discuss a project then email him at bestraymond@icloud.com. He’d be happy to hear from you.
 
