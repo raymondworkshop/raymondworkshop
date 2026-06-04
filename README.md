@@ -4,7 +4,7 @@ Raymond ZHAO Wenlong is a product-minded engineer and founder@Bean based in Hong
 If you’ve got any questions, suggestions or would like to discuss a project then email him at bestraymond@icloud.com. He’d be happy to hear from you.
 
 
-He was a Tech Officer at HSU, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
+He was a Tech Officer at HSUHK, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
 Outside of reading and tech, he also likes Philosophy, Psychology, Nature, Art, and Movie.
 
 Some of his favorite quotes:
