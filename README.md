@@ -5,13 +5,11 @@ Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech,
 
 Some of his favorite quotes:
 
-- "Life is too short to worry about stupid things. Fall in love.   Study, think, create and grow.   "  - Richard Feynman  
+- "Life is too short to worry about stupid things. Fall in love.  Study, think, create and grow.   "  - Richard Feynman  
 - "What makes you vulnerable makes you strong and beautiful"
 - "The good life is one inspired by love and guided by knowledge" - Bertrand Russell
 - "The challenge comes because you are ready for it"
-- "Buy yourself cake and flowers and get through it"
 - "It’s never too late to be what you might have been" - George Eliot
-- "No problem can be solved from the same level of consciousness that created it" - Albert Einstein
 
 He was a Technical Officer at HSUHK, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
 
