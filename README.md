@@ -1,14 +1,17 @@
-Raymond ZHAO Wenlong is a product-minded engineer, and director@Bean based in Hong Kong now.  
+Raymond Zhao Wenlong is a product-minded engineer and Director at Bean, based in Hong Kong.  
 
-Outside of [reading](https://raymondworkshop.github.io/bookshelf.html) and tech, he also likes Philosophy, Nature, Color, dog/horse/bird, and Film.
+Outside of reading and technology, he has a deep appreciation for philosophy, wildlife and nature, cinema, and visual aesthetics.
 
-Some of his favorite quotes:
+#### Selected Quotes  
+*  "Life is too short to worry about stupid things. Fall in love. Study, think, create and grow." — Richard Feynman
 
-- "Life is too short to worry about stupid things. Fall in love.  Study, think, create and grow."  - Richard Feynman  
-- "What makes you vulnerable makes you strong and beautiful"
-- "The good life is one inspired by love and guided by knowledge" - Bertrand Russell
+* "What makes you vulnerable makes you strong and beautiful."
 
+* "The good life is one inspired by love and guided by knowledge." — Bertrand Russell
 
-He was a Technical Officer at HSUHK, RA in (CUHK, CityU, and HKBU), Tech Lead at HKCREO (a Fintech startup), and Lead Software Engineer at Alcatel-Lucent (now Nokia).
+#### Background
+* Experience: Technical Officer at HSU; RA at CUHK, CityU, and HKBU; Tech Lead at HKCREO; Lead Software Engineer at Alcatel-Lucent (Nokia).
 
-Raymond got his M.S. in Computer Science at Chinese University of Hong Kong and BEng in Electronic and Information Engineering at WuHan University.
+* Education: M.S. in Computer Science (CUHK); B.Eng. in Electronic and Information Engineering (Wuhan University).
+
+Feel free to reach out via [bestraymond@icloud.com](mailto:bestraymond@icloud.com) for thoughts, discussions, or potential collaborations. 
