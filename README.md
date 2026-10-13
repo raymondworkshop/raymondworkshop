@@ -8,8 +8,6 @@ Outside of reading, technology, and investing, I have a deep appreciation for ph
 #### Selected Quotes  
 * "The good life is one inspired by love and guided by knowledge." — Bertrand Russell  
 
-* "Fall in love. Study, think, create and grow." — Richard Feynman  
-
 #### Background  
 * Experience: CTO at HSU; RA at CUHK, CityU, and HKBU; Tech Lead at HKCREO; Lead Software Engineer at Alcatel-Lucent (Nokia).
 
