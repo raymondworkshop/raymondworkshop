@@ -1,9 +1,10 @@
 Raymond Zhao Wenlong is an engineer, tech analyst, and director@Bean, based in Hong Kong.  
 
-He also offers technical consulting on AI adaptation for organizations and individuals, and alongside life coaching service based on [Stoicism](https://en.wikipedia.org/wiki/Stoicism).  
-Feel free to reach out via [bestraymond@icloud.com](bestraymond@icloud.com).   
+He also offers technical consulting on AI adaptation for organizations and individuals, and alongside life coaching service based on [Stoicism](https://en.wikipedia.org/wiki/Stoicism).   
 
-Outside of technology and reading, he has a deep appreciation for philosophy, sociology, investing, wildlife, psychology, cinema, and colours. 
+Outside of technology and reading, he has a deep appreciation for philosophy, sociology, investing, wildlife, psychology, cinema, and colours.  
+
+Feel free to reach out via [bestraymond@icloud.com](bestraymond@icloud.com).  
 
 #### Selected Quotes  
 * "The good life is one inspired by love and guided by knowledge." — Bertrand Russell  
