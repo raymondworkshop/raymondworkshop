@@ -12,4 +12,4 @@ Feel free to reach out via [bestraymond@icloud.com](bestraymond@icloud.com).
 #### Background  
 * Experience: TO at HSU; RA at CUHK, CityU, and HKBU; Tech Lead at HKCREO; Lead Software Engineer at Alcatel-Lucent (Nokia).
 
-* Education: M.S. in Computer Science (CUHK); B.Eng. in Electronic and Information Engineering (Wuhan University & UC).
+* Education: M.S. in Computer Science (CUHK); B.Eng. in Electronic and Information Engineering (Wuhan & UC).
