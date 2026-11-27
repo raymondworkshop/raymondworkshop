@@ -10,6 +10,6 @@ Feel free to reach out via [bestraymond@icloud.com](bestraymond@icloud.com).
 * "The good life is one inspired by love and guided by knowledge." — Bertrand Russell  
 
 #### Background  
-* Experience: TO at HSU; RA at CUHK, CityU, and HKBU; Tech Lead at HKCREO; Lead Software Engineer at Alcatel-Lucent (Nokia).
+* Experience: CTO at HSU; RA at CUHK, CityU, and HKBU; Tech Lead at HKCREO; Lead Software Engineer at Alcatel-Lucent (Nokia).
 
 * Education: M.S. in Computer Science (CUHK); B.Eng. in Electronic and Information Engineering (Wuhan & UC).
